@@ -23,6 +23,14 @@ Sempre buscando evoluir e criar projetos cada vez mais profissionais.
 
 </div>
 
+## Tecnologias com maior habilidade
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+
+</div>
+
 ## 🚀 Objetivo
 
 Meu foco é me tornar um desenvolvedor cada vez mais completo, criando aplicações:
@@ -34,12 +42,13 @@ Meu foco é me tornar um desenvolvedor cada vez mais completo, criando aplicaç�
 
 ## 📫 Contato
 <div aling="colum">
-    <p>Gmail: pablogomesdasilva241208@gmail.com</p>
     <img src="https://skillicons.dev/icons?i=gmail" />
+    <p>Gmail: pablogomesdasilva241208@gmail.com</p>
+     <img src="https://skillicons.dev/icons?i=linkedin" />
     <p>LinkedIn: https://www.linkedin.com/in/pablo-gomes-874822397</p>
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=vercel" />  
+    <p>Vercel: https://vercel.com/pablo-gomes-da-silvas-projects</p>
     <p>🌎 Em constante evolução</p>
 </div>
-
 
 ⭐ Se gostou dos meus projetos, deixe uma estrela!
