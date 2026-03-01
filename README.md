@@ -31,14 +31,15 @@ Meu foco é me tornar um desenvolvedor cada vez mais completo, criando aplicaç�
 - Bonitas
 - Bem organizadas
 -Interativas e Animadas
----
 
 ## 📫 Contato
 <div aling="colum">
-    <P>📧 pablogomesdasilva241208@gmail.com</P>
-    <p>💼 LinkedIn: https://www.linkedin.com/in/pablo-gomes-874822397</p>
+    <p>Gmail: pablogomesdasilva241208@gmail.com</p>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+    <p>LinkedIn: https://www.linkedin.com/in/pablo-gomes-874822397</p>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
     <p>🌎 Em constante evolução</p>
 </div>
----
+
 
 ⭐ Se gostou dos meus projetos, deixe uma estrela!
