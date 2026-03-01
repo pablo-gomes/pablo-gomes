@@ -26,7 +26,7 @@ Sempre buscando evoluir e criar projetos cada vez mais profissionais.
 ## 🚀 Objetivo
 
 Meu foco é me tornar um desenvolvedor cada vez mais completo, criando aplicações:
-- Rápidas
+- Rapídas
 - Escaláveis
 - Bonitas
 - Bem organizadas
