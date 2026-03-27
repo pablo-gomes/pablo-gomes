@@ -19,7 +19,7 @@ Sempre buscando evoluir e criar projetos cada vez mais profissionais.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,tailwind,github,vercel,figma,mysql,php" />
+<img src="https://skillicons.dev/icons?i=python,flask,php,js,html,css,tailwind,github,vercel,figma,mysql" />
 
 </div>
 
