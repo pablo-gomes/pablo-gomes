@@ -40,6 +40,19 @@ Meu foco é me tornar um desenvolvedor cada vez mais completo, criando aplicaç�
 - Bem organizadas
 -Interativas e Animadas
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pablo-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pablo-gomes&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
 ## 📫 Contato
 <div aling="colum">
     <img src="https://skillicons.dev/icons?i=gmail" />
